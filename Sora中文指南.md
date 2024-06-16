@@ -1,5 +1,4 @@
 [CN](https://github.com/yee-alt/Sora-Prompt/blob/main/Sora%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97.md)
-
 [EN](https://github.com/yee-alt/Sora-Prompt/edit/main/Sora%20Guide%20(English%20Version).md)
 
 ---
