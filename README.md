@@ -63,6 +63,35 @@ Additionally, creators can further guide the video generator as needed, such as 
 
 In conclusion, using specific and vivid vocabulary in the Sora text-to-video model is crucial. These words not only provide the video generator with rich details and guidance but also offer a more vivid and realistic visual experience for the audience. By skillfully using these words, creators can create high-quality, interesting, and engaging video works, allowing the audience to immerse themselves and enjoy an ultimate visual feast. 🌟🎥🌊
 
+## Creating Resonance and Engagement in Sora Model
+
+### Strategies for Creating Resonance:
+1. **Evoke Emotional Resonance**: Select words that touch the audience's emotions, such as "warm family atmosphere" or "childhood memories." These words can trigger emotional connections and deepen audience engagement with the video content.
+
+2. **Cultural Elements of Resonance**: Utilize culturally universal elements or symbols like traditional festivals or classic music as keywords. These elements foster cultural resonance, enhancing viewers' identification and sense of belonging.
+
+3. **Resonance with Social Issues**: Choose widely recognized social issues as video themes and use keywords to guide audience thoughts and feelings. For instance, topics like environmental protection or justice can evoke a sense of social responsibility, intensifying audience resonance.
+
+### Techniques to Enhance Engagement:
+1. **Interactive Keywords**: Use prompts that encourage audience interaction, such as "What do you think will happen next?" or "Leave your comments below!" These prompts stimulate audience participation in comments, sharing, and interaction.
+
+2. **Personalized Experience**: Create a personalized viewing experience with keywords like "Choose your favorite character to continue watching." This customization enhances viewer engagement and satisfaction based on individual preferences and interests.
+
+3. **Engagement Challenges or Activities**: Design fun challenges or activities related to the video content and guide audience participation through keywords. For example, prompts like "Try imitating the actions in the video and share your results" can spark creativity and sharing desires, further boosting engagement.
+
+### Practical Application Example:
+Suppose a creator wants to produce a short film about urban life. They can use the following keywords to create resonance and engagement:
+- **Creating Resonance**:
+  - Opening: "In this bustling city, everyone has their own story. Have you also left unforgettable memories here?" This prompts viewers to recall their experiences in the city, fostering emotional resonance.
+  - Scene description: "As night falls, the city lights up. The familiar scent fills every street corner, a unique ambiance belonging to this city." By depicting unique elements and atmosphere of the city, the creator evokes nostalgia and resonance among viewers.
+  
+- **Enhancing Engagement**:
+  - Interactive keyword: "Amidst this hustle, which corner do you love the most? Share your answer in the comments!" This encourages viewers to engage by sharing their preferences and thoughts.
+  - Personalized experience: "Choose a scene you're familiar with, imagine the wonderful times you've spent here. Let's experience the vibrant life of this city together!" This allows viewers to interpret the video content based on their own feelings and understanding.
+  
+By skillfully using these keywords, creators can successfully foster resonance and engagement. This helps viewers develop emotional connections and actively participate in interaction and sharing. Such videos not only attract more viewers but also enhance viewer loyalty and engagement. Therefore, in the Sora Model for video creation, using keywords to create resonance and engagement is a crucial creative strategy.
+
+
 ---
 
 
@@ -181,9 +210,6 @@ In conclusion, using specific and vivid vocabulary in the Sora text-to-video mod
 通过精心选择和运用情感性提示词，创作者可以成功调动观众的情绪，使他们更加深入地理解和感受视频内容。这种情感上的共鸣不仅能够增强视频的感染力，还能够激发观众对环保问题的关注和行动意愿。因此，在Sora文生视频模型创作中，充分利用情感性提示词调动观众情绪是一种非常重要的创作策略。
 
 ---
-
-[点击这里查看中文版本](https://github.com/yee-alt/Sora-Prompt/blob/main/Sora%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97.md)🚀
-
 
 此外，创作者还可以根据需要对视频生成器进行进一步的指导，例如调整光线和色彩、增强音效和动态效果等。通过不断尝试和调整，创作者可以创造出更加丰富、多样的视觉效果，为观众带来更加震撼和愉悦的视觉体验。
 
