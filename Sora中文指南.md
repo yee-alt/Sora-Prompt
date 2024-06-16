@@ -1,6 +1,3 @@
-# Sora-Prompt
-Full guidance to Sora (Text to video prompt guide)
-# Effective Video Creation with the Sora Model: A Comprehensive Guide 🎥🚀
 
 # 如何使用Sora模型进行高效视频创作 🚀
 
@@ -60,26 +57,3 @@ Full guidance to Sora (Text to video prompt guide)
 
 ---
 
-# How to Use the Sora Model for Efficient Video Creation 🚀
-
-When creating videos using the Sora model, it is crucial to avoid redundant and vague prompts. Redundant prompts increase the model's processing burden, potentially resulting in bulky and non-concise video content. Vague expressions might prevent the model from accurately understanding the creator's intent, leading to generated content that deviates from expectations. Therefore, to achieve high-quality video generation, creators must carefully select and use prompts, ensuring they are specific, vivid, and free from redundancy and vagueness.
-
-## Strategies to Avoid Redundant Expressions 🎯
-
-1. **Refine Language**: Use concise and clear language to express intentions, avoiding lengthy and repetitive words or phrases. By streamlining language, unnecessary informational burden is reduced, making it easier for the model to understand and execute instructions.
-2. **Merge Similar Concepts**: If multiple prompts express similar concepts or scenes, consider merging them into a more concise expression. This reduces repetitive information and improves the clarity of instructions.
-3. **Use Synonyms or Near-Synonyms**: Avoid excessive use of the same vocabulary by incorporating synonyms or near-synonyms. This not only reduces redundancy but also enhances the richness of instructions.
-
-## Methods to Avoid Vague Expressions 🔍
-
-1. **Be Specific and Clear**: Use clear, specific words to describe scenes, actions, or emotions. Avoid ambiguous or overly abstract expressions to ensure the model accurately understands and generates content that meets expectations.
-2. **Provide Context**: Offer ample context for the prompts to help the model better understand their meaning and intent. Providing relevant background information or conditions can reduce ambiguity and improve instruction clarity.
-3. **Use Examples or References**: Whenever possible, provide specific examples or reference images, videos, etc., for the prompts. This offers more intuitive information for the model, reducing ambiguity and increasing the accuracy of the generated content.
-
-## Practical Application Example 🛠️
-
-Suppose a creator wants to make a short film about urban life. They can use the following concise and clear prompts to guide the video generator:
-
-- Scene transitions: “Switch from a busy street to a quiet park, then to a brightly lit skyscraper.” 🏙️🌳🏢
-- Character depiction: “Show busy office workers, leisurely elderly people, and playful children, capturing their expressions and movements.” 👩‍💼👴👶
-- Emotional conveyance: “Emphasize the
