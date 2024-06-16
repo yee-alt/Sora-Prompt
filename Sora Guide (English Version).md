@@ -1,9 +1,10 @@
 Effective Video Creation with the Sora Model: A Comprehensive Guide
 ---
 
-[点击这里查看中文版本](#如何使用sora模型进行高效视频创作-🚀)
+[中文版本](#[如何使用sora模型进行高效视频创作-](https://github.com/yee-alt/Sora-Prompt/blob/main/Sora%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97.md)🚀)
 
-[Click here for the English version](#how-to-use-the-sora-model-for-efficient-video-creation-🚀)
+
+[English version](#how-to-use-the-sora-model-for-efficient-video-creation-🚀)
 
 ---
 
